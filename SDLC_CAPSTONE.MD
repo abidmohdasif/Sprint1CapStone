@@ -12,14 +12,14 @@ Submission Type: Solo
 
 Due: End of class Thursday
 
-Section 1 — Model Selection and Rationale
+## Section 1 — Model Selection and Rationale
 <!-- Choose one SDLC model: Waterfall, Agile/Scrum, or V-Model. Argue that it best describes how Sprint 1 actually ran. Your rationale must connect specific model characteristics to specific evidence from your project — your spec, your GitHub Issues, your swap structure, your retrospective. If you choose Waterfall: address why Sprint 1's feedback loops and iterative fixes do not disqualify it. If you choose V-Model: identify the specific parallel between your dev phases and your test phases. -->
 
 Selected Model: My team ran the agile/scrum framework during our sprint 1.
 
 Rationale: We didn't have a set of requirements that we had to follow, we had a basic layout and we built upon that during the sprint. This closley follows the agile framework as it doesn't need a structed design at the begening and allows for revisions during the sprint. Even though there was mutliple testing portion in 1 sprint if you split the sprint in 3 parts(weeks) it would be the same as three sprints and is very similar to the agile framework. We always had a playable product, it wasn't until the end of the sprint that we finally had a product.
 
-Section 2 — Phase Analysis
+## Section 2 — Phase Analysis
 <!-- Walk through every phase of your chosen model. For each phase, address two things: 1. What element of Sprint 1 corresponds to this phase, even loosely? 2. What would this phase have looked like under strict model adherence? Every phase must be addressed. Phases that don't map cleanly are not a reason to skip — they are the most valuable part of the analysis. -->
 
 Phase: <!-- Requirements -->
@@ -48,7 +48,8 @@ What Sprint 1 produced: We got together as a class and the game was presented to
 What strict adherence would have looked like: Presentation of the game occurs and there would be feedback given to the team that should be implemented as new updates. Figure what should be done for the next sprint because the cycle never ends :)
 
 
-<!-- Add additional phase sections as needed for your chosen model -->Section 3 — Defect Case Studies
+<!-- Add additional phase sections as needed for your chosen model -->
+## Section 3 — Defect Case Studies
 <!-- Select two bugs from your GitHub Issues filed during the Week 6 swap. For each bug provide: 1. A description of the bug and what it caused 2. The phase that introduced the defect (requirements / design / implementation) 3. The phase that caught it — and whether your model would have caught it earlier 4. The cost of catching it late Link directly to each GitHub Issue. -->
 
 Bug 1
@@ -77,7 +78,7 @@ Would your chosen model have caught it earlier? : Yes if we had test cases set u
 
 Cost of catching it late: It affects the user experience a little and we had to go back to the code and implent error handling for not only this but a a bunch more imputs.
 
-Section 4 — QA Assessment
+## Section 4 — QA Assessment
 <!-- Address three things: 1. How did QA actually operate during Sprint 1? (Gate / continuous / in between?) 2. How does that compare to what your chosen model prescribes? 3. What would QA have looked like under strict model adherence? Your answer must be specific to your team's Sprint 1 experience. -->
 
 How QA actually operated: QA was continuous between week 1 and week 3 We finished the game gave it to QA and then we got the game back to do revisions
@@ -89,7 +90,7 @@ QA would have been invloved during the planning
 There would have been some test cases that were written before code(the basics suchs as error handling for user intput)
 Run validation testing before mergin together all the features(implementation)
 
-Section 5 — Team Retrospective on Process
+## Section 5 — Team Retrospective on Process
 <!-- Identify the single most significant gap between how Sprint 1 ran and how it would have run under strict adherence to your chosen model. Answer three things: 1. What was the gap? 2. What did it cost your team in practice? 3. If you ran Sprint 2 under strict model adherence, what one change would have the most impact? -->
 
 The gap: I believe the biggest gap was the fact testing didnt work alongside the development. The testing part was kind of run as waterfall as the testing team was brought in at the end to check for errors in the game.
