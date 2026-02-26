@@ -98,3 +98,6 @@ The gap: I believe the biggest gap was the fact testing didnt work alongside the
 What it cost the team: There wasn't to much cost for the team as we already knew most of the errors but if we didn't know the erros we would have to rework the logic and have to spend time working on fixing the errors
 
 The one change for Sprint 2: I would start of the sprint choosing one of the models of SDLC. I would also ask the QA team for ideas as they may have ideas that will help the game or they will figure out potential errors that could happen, so that we could take them into account before we even start the game building process.
+
+## Contributors
+Abid Asif - all
